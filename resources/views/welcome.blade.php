@@ -135,7 +135,7 @@
 
     <footer class="bg-light mt-4">
         <div class="constainer text-center py-4">
-            <p>&copy; Aipudin</p>
+            <p>&copy; ALFIN</p>
         </div>
     </footer>
 

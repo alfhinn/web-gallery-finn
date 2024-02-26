@@ -2,15 +2,14 @@
     <nav class="navbar top-navbar navbar-expand-lg">
         <div class="navbar-header" data-logobg="skin6">
             <!-- This is for the sidebar toggle which is visible on mobile only -->
-            <a class="nav-toggler waves-effect waves-light d-block d-lg-none" href="javascript:void(0)"><i
-                    class="ti-menu ti-close"></i></a>
+            <a class="nav-toggler waves-effect waves-light d-block d-lg-none" href="javascript:void(0)"> <iclass="ti-menu ti-close"></i></a>
             <!-- ============================================================== -->
             <!-- Logo -->
             <!-- ============================================================== -->
             <div class="navbar-brand">
                 <!-- Logo icon -->
                 <a href="/" class="mt-3 ">
-                    <h2>SIGALAH</h2>
+                    <h2>ALFIN</h2>
                 </a>
             </div>
             <!-- ============================================================== -->
@@ -37,7 +36,7 @@
                         aria-haspopup="true" aria-expanded="false">
                         <img src="/assets/dist/img/dip.jpg" alt="user" class="rounded-circle"
                             width="40">
-                        <span class="ms-2 d-none d-lg-inline-block"><span>Aipudin</span> <span
+                        <span class="ms-2 d-none d-lg-inline-block"><span>Alfin</span> <span
                                 class="text-dark">{{ Auth::user()->name }}</span> <i data-feather="chevron-down"
                                 class="svg-icon"></i></span>
                     </a>
